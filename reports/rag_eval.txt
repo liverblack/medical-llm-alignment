@@ -1,0 +1,19 @@
+Loading embedding model...
+Loading reranker...
+Loading SFT model...
+
+No RAG: 0.6233 (187/300)
+
+BM25: 0.5200 (156/300)
+
+Dense: 0.5567 (167/300)
+
+Rerank: 0.5367 (161/300)
+
+========================================
+No RAG    : 0.6233
+BM25      : 0.5200
+Dense     : 0.5567
+Rerank    : 0.5367
+
+结果已保存至 reports/rag_ablation.md
